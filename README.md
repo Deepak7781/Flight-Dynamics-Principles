@@ -102,6 +102,6 @@ The assignment solutions are independently derived and implemented for academic 
 Deepak S  
 Aeronautical Engineering Student
 
-GitHub: [deepak7781](github.com/deepak7781)
+GitHub: [deepak7781](github.com/Deepak7781)
 
 ---
