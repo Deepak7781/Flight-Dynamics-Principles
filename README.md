@@ -53,3 +53,55 @@ The repository includes assignments and simulations related to:
 
 ---
 
+## Objectives
+
+The main objectives of this repository are:
+
+- To strengthen understanding of flight dynamics theory
+- To implement theoretical concepts computationally
+- To build reusable flight simulation frameworks
+- To document solutions systematically
+- To create a reference for aerospace engineering students
+
+---
+
+## Sample Simulations
+
+Some simulations included in this repository:
+
+- 6-DOF Aircraft Simulation
+- Longitudinal Stability Response
+- Dutch Roll Simulation
+- Phugoid Motion
+- Short Period Motion
+- Spiral and Roll Modes
+- Guidance Law Simulations
+- Target Tracking Problems
+
+---
+
+## Disclaimer
+
+This repository is intended for educational and learning purposes only.
+
+The assignment solutions are independently derived and implemented for academic understanding of flight dynamics principles.
+
+---
+
+## References
+
+- Michael V. Cook — *Flight Dynamics Principles*
+- Nelson — *Flight Stability and Automatic Control*
+- Stevens & Lewis — *Aircraft Control and Simulation*
+- Etkin — *Dynamics of Flight*
+
+---
+
+## Author
+
+Deepak S  
+Aeronautical Engineering Student
+
+GitHub: github.com/deepak7781
+
+---
