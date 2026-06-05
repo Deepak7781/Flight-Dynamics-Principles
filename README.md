@@ -1,6 +1,6 @@
 # Flight Dynamics Principles — Assignment Solutions
 
-This repository contains my solutions, derivations, simulations, and computational implementations for assignment problems from the book:
+This repository contains my solutions, derivations, simulations, and computational implementations for assignment problems (chapter 14) from the book:
 
 📘 *Flight Dynamics Principles* by Michael V. Cook
 
